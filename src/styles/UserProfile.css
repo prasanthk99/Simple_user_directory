@@ -1,0 +1,13 @@
+.UserDetail-profile{
+    border: 1px black solid;
+    border-radius: 8px;
+    margin: 10px 4vw;
+    padding: 6px 8px;
+    text-align: left;
+    /* display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem; */
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

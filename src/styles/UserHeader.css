@@ -1,0 +1,25 @@
+.UserDetail-header *{
+    display: inline-block;
+    padding: 3px 10px;
+}
+
+.UserDetail-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+}
+
+.UserDetail-header button{
+    border: 1px black solid;
+    border-radius: 4px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    cursor: pointer;
+}
+
+.UserDetail-header button:first-child{
+    background-color: rgb(207,226,243);
+}
+
+.UserDetail-header button:last-child{
+    background-color: rgb(182,215,168);
+}

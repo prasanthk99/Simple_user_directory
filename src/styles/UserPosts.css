@@ -1,0 +1,13 @@
+.UserDetail-posts{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    /* margin: auto 2%; */
+}
+
+.userPost-card{
+    border: 1px black solid;
+    border-radius: 6px;
+    padding: 4px;
+    margin: 8px;
+}
